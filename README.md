@@ -5,7 +5,6 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 ## Languages
 
 * C++
-* Python
 
 ## Topics Covered
 
