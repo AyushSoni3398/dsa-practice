@@ -52,3 +52,15 @@ Each problem is stored in a separate directory containing:
 ---
 
 Consistent practice, one problem at a time.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Dynamic Programming
+|  |
+| ------- |
+| [3699-number-of-zigzag-arrays-i](https://github.com/AyushSoni3398/DSA-Practice/tree/master/3699-number-of-zigzag-arrays-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [3699-number-of-zigzag-arrays-i](https://github.com/AyushSoni3398/DSA-Practice/tree/master/3699-number-of-zigzag-arrays-i) |
+<!---LeetCode Topics End-->
