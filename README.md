@@ -58,6 +58,7 @@ Consistent practice, one problem at a time.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/AyushSoni3398/DSA-Practice/tree/master/0085-maximal-rectangle) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/AyushSoni3398/DSA-Practice/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/AyushSoni3398/DSA-Practice/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Prefix Sum
@@ -74,6 +75,7 @@ Consistent practice, one problem at a time.
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/AyushSoni3398/DSA-Practice/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/AyushSoni3398/DSA-Practice/tree/master/0085-maximal-rectangle) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/AyushSoni3398/DSA-Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/AyushSoni3398/DSA-Practice/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AyushSoni3398/DSA-Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -119,8 +121,14 @@ Consistent practice, one problem at a time.
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/AyushSoni3398/DSA-Practice/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/AyushSoni3398/DSA-Practice/tree/master/0085-maximal-rectangle) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/AyushSoni3398/DSA-Practice/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/AyushSoni3398/DSA-Practice/tree/master/0085-maximal-rectangle) |
+## Matrix
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/AyushSoni3398/DSA-Practice/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
