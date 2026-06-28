@@ -73,6 +73,7 @@ Consistent practice, one problem at a time.
 ## Array
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/AyushSoni3398/DSA-Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/AyushSoni3398/DSA-Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/AyushSoni3398/DSA-Practice/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AyushSoni3398/DSA-Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -114,4 +115,12 @@ Consistent practice, one problem at a time.
 |  |
 | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/AyushSoni3398/DSA-Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+## Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/AyushSoni3398/DSA-Practice/tree/master/0084-largest-rectangle-in-histogram) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/AyushSoni3398/DSA-Practice/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
