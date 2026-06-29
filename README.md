@@ -112,6 +112,7 @@ Consistent practice, one problem at a time.
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/AyushSoni3398/DSA-Practice/tree/master/0402-remove-k-digits) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/AyushSoni3398/DSA-Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Sorting
 |  |
@@ -122,13 +123,19 @@ Consistent practice, one problem at a time.
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/AyushSoni3398/DSA-Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/AyushSoni3398/DSA-Practice/tree/master/0085-maximal-rectangle) |
+| [0402-remove-k-digits](https://github.com/AyushSoni3398/DSA-Practice/tree/master/0402-remove-k-digits) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/AyushSoni3398/DSA-Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/AyushSoni3398/DSA-Practice/tree/master/0085-maximal-rectangle) |
+| [0402-remove-k-digits](https://github.com/AyushSoni3398/DSA-Practice/tree/master/0402-remove-k-digits) |
 ## Matrix
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/AyushSoni3398/DSA-Practice/tree/master/0085-maximal-rectangle) |
+## String
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/AyushSoni3398/DSA-Practice/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
