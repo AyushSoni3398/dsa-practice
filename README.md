@@ -80,6 +80,7 @@ Consistent practice, one problem at a time.
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AyushSoni3398/DSA-Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AyushSoni3398/DSA-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/AyushSoni3398/DSA-Practice/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/AyushSoni3398/DSA-Practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AyushSoni3398/DSA-Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/AyushSoni3398/DSA-Practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Hash Table
@@ -138,6 +139,7 @@ Consistent practice, one problem at a time.
 | ------- |
 | [0085-maximal-rectangle](https://github.com/AyushSoni3398/DSA-Practice/tree/master/0085-maximal-rectangle) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AyushSoni3398/DSA-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/AyushSoni3398/DSA-Practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## String
 |  |
 | ------- |
@@ -156,6 +158,7 @@ Consistent practice, one problem at a time.
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AyushSoni3398/DSA-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/AyushSoni3398/DSA-Practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Union-Find
 |  |
 | ------- |
@@ -164,4 +167,13 @@ Consistent practice, one problem at a time.
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AyushSoni3398/DSA-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/AyushSoni3398/DSA-Practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Graph Theory
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/AyushSoni3398/DSA-Practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Shortest Path
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/AyushSoni3398/DSA-Practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->
