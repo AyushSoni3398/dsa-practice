@@ -78,6 +78,7 @@ Consistent practice, one problem at a time.
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/AyushSoni3398/DSA-Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/AyushSoni3398/DSA-Practice/tree/master/0085-maximal-rectangle) |
+| [1288-remove-covered-intervals](https://github.com/AyushSoni3398/DSA-Practice/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/AyushSoni3398/DSA-Practice/tree/master/1301-number-of-paths-with-max-score) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/AyushSoni3398/DSA-Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AyushSoni3398/DSA-Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -125,6 +126,7 @@ Consistent practice, one problem at a time.
 ## Sorting
 |  |
 | ------- |
+| [1288-remove-covered-intervals](https://github.com/AyushSoni3398/DSA-Practice/tree/master/1288-remove-covered-intervals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/AyushSoni3398/DSA-Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Stack
 |  |
