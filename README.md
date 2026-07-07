@@ -73,6 +73,7 @@ Consistent practice, one problem at a time.
 |  |
 | ------- |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/AyushSoni3398/DSA-Practice/tree/master/3700-number-of-zigzag-arrays-ii) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/AyushSoni3398/DSA-Practice/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Array
 |  |
 | ------- |
