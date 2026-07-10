@@ -60,6 +60,7 @@ Consistent practice, one problem at a time.
 | ------- |
 | [0085-maximal-rectangle](https://github.com/AyushSoni3398/DSA-Practice/tree/master/0085-maximal-rectangle) |
 | [1301-number-of-paths-with-max-score](https://github.com/AyushSoni3398/DSA-Practice/tree/master/1301-number-of-paths-with-max-score) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/AyushSoni3398/DSA-Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/AyushSoni3398/DSA-Practice/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/AyushSoni3398/DSA-Practice/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/AyushSoni3398/DSA-Practice/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -88,6 +89,7 @@ Consistent practice, one problem at a time.
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AyushSoni3398/DSA-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/AyushSoni3398/DSA-Practice/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/AyushSoni3398/DSA-Practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/AyushSoni3398/DSA-Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/AyushSoni3398/DSA-Practice/tree/master/3620-network-recovery-pathways) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AyushSoni3398/DSA-Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/AyushSoni3398/DSA-Practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -126,11 +128,13 @@ Consistent practice, one problem at a time.
 | ------- |
 | [0402-remove-k-digits](https://github.com/AyushSoni3398/DSA-Practice/tree/master/0402-remove-k-digits) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/AyushSoni3398/DSA-Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/AyushSoni3398/DSA-Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
 |  |
 | ------- |
 | [1288-remove-covered-intervals](https://github.com/AyushSoni3398/DSA-Practice/tree/master/1288-remove-covered-intervals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/AyushSoni3398/DSA-Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/AyushSoni3398/DSA-Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Stack
 |  |
 | ------- |
@@ -165,6 +169,7 @@ Consistent practice, one problem at a time.
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AyushSoni3398/DSA-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/AyushSoni3398/DSA-Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/AyushSoni3398/DSA-Practice/tree/master/3620-network-recovery-pathways) |
 ## Breadth-First Search
 |  |
@@ -188,6 +193,7 @@ Consistent practice, one problem at a time.
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AyushSoni3398/DSA-Practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/AyushSoni3398/DSA-Practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/AyushSoni3398/DSA-Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/AyushSoni3398/DSA-Practice/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
@@ -202,4 +208,12 @@ Consistent practice, one problem at a time.
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AyushSoni3398/DSA-Practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Two Pointers
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/AyushSoni3398/DSA-Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/AyushSoni3398/DSA-Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 <!---LeetCode Topics End-->
