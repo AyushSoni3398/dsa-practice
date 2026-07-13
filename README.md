@@ -145,12 +145,14 @@ Consistent practice, one problem at a time.
 | [0084-largest-rectangle-in-histogram](https://github.com/AyushSoni3398/DSA-Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/AyushSoni3398/DSA-Practice/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/AyushSoni3398/DSA-Practice/tree/master/0402-remove-k-digits) |
+| [0901-online-stock-span](https://github.com/AyushSoni3398/DSA-Practice/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/AyushSoni3398/DSA-Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/AyushSoni3398/DSA-Practice/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/AyushSoni3398/DSA-Practice/tree/master/0402-remove-k-digits) |
+| [0901-online-stock-span](https://github.com/AyushSoni3398/DSA-Practice/tree/master/0901-online-stock-span) |
 ## Matrix
 |  |
 | ------- |
@@ -224,4 +226,12 @@ Consistent practice, one problem at a time.
 |  |
 | ------- |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/AyushSoni3398/DSA-Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Design
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/AyushSoni3398/DSA-Practice/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/AyushSoni3398/DSA-Practice/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
