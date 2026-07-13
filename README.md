@@ -124,6 +124,7 @@ Consistent practice, one problem at a time.
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/AyushSoni3398/DSA-Practice/tree/master/1291-sequential-digits) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/AyushSoni3398/DSA-Practice/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Greedy
 |  |
