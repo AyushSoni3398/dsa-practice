@@ -5,8 +5,8 @@ public:
     int ind = -1;
 
     StockSpanner() {
-        // ind = -1;
-        // st.clear();
+        ind = -1;
+        stack<pair<int,int>>().swap(st);
     }
     
     int next(int price) {
